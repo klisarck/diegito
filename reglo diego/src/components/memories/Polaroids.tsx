@@ -1,8 +1,8 @@
 import { useState } from "react";
-import fotoRisa from "@/assets/foto-risa.png.asset.json";
-import fotoLab from "@/assets/foto-lab.jpg.asset.json";
-import fotoGrupo from "@/assets/foto-grupo.jpg.asset.json";
-import fotoDiego from "@/assets/foto-diego.jpg.asset.json";
+import fotoRisa from "@/assets/foto-risa.png";
+import fotoLab from "@/assets/foto-lab.jpg";
+import fotoGrupo from "@/assets/foto-grupo.jpg";
+import fotoDiego from "@/assets/foto-diego.jpg";
 
 type Memory = {
   id: string;
