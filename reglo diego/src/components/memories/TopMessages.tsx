@@ -1,10 +1,10 @@
 import { useState } from "react";
-import msg470 from "@/assets/msg-470.jpg.asset.json";
-import msg471 from "@/assets/msg-471.jpg.asset.json";
-import msg472 from "@/assets/msg-472.jpg.asset.json";
-import msg473 from "@/assets/msg-473.jpg.asset.json";
-import msg474 from "@/assets/msg-474.jpg.asset.json";
-import msg476 from "@/assets/msg-476.jpg.asset.json";
+import msg470 from "@/assets/msg-470.jpg";
+import msg471 from "@/assets/msg-471.jpg";
+import msg472 from "@/assets/msg-472.jpg";
+import msg473 from "@/assets/msg-473.jpg";
+import msg474 from "@/assets/msg-474.jpg";
+import msg476 from "@/assets/msg-476.jpg";
 import { DoodleHeart, DoodleStar } from "./Doodles";
 
 const SHOTS = [
